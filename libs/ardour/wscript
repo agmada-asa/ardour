@@ -272,6 +272,7 @@ libardour_sources = [
         'triggerbox.cc',
         'unknown_processor.cc',
         'user_bundle.cc',
+        'user_interaction_logger.cc',
         'utils.cc',
         'vca.cc',
         'vca_manager.cc',
